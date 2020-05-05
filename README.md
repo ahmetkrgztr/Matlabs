@@ -1,2 +1,2 @@
 # Matlabs
-Plynomial regression
+Polynomial regression
